@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Jörg.
+
+I'm a Full-Stack Developer & Entrepreneur from Germany interested in the development of automated software systems and building innovative prototypes and companies. After working almost 10 years in applied research at <a target="_blank" rel="noopener noreferrer" href="https://www.iese.fraunhofer.de">Fraunhofer IESE</a> and <a target="_blank" rel="noopener noreferrer" href="https://www.sap.com">SAP Research</a> I co-founded the Startup <a target="_blank" rel="noopener noreferrer" href="https://talentwunder.com">Talentwunder</a>.
+
+Currently, I'm working on a new startup ...
 
 <!--
 **joergrech/joergrech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
